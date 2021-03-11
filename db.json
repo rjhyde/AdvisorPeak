@@ -1,5 +1,5 @@
 {
-    "users": [
+    "model": [
 {
     "external_id": "riblet8",
     "updated_at": "2020-09-15T22:26:21.000Z",
@@ -11,114 +11,20 @@
     "updated_at": "2020-09-15T23:14:07.000Z",
     "email": "AppleSupport@proofpoint.com",
     "org_ids": "proofpoint.com"
-  },
-  {
-    "external_id": "lillieeeeeex",
-    "updated_at": "2020-09-15T22:29:54.000Z",
-    "email": "lillieeeeeex@paycom.com",
-    "org_ids": "paycom.com"
-  },
-  {
-    "external_id": "masmith93",
-    "updated_at": "2020-09-15T22:37:38.000Z",
-    "email": "masmith93@skillsoft.com",
-    "org_ids": "skillsoft.com"
-  },
-  {
-    "external_id": "geekgearhead",
-    "updated_at": "2020-09-15T21:37:27.000Z",
-    "email": "geekgearhead@palantir.com",
-    "org_ids": "palantir.com"
-  },
-  {
-    "external_id": "KyleEhni",
-    "updated_at": "2020-09-15T22:38:37.000Z",
-    "email": "KyleEhni@mdsol.com",
-    "org_ids": "mdsol.com"
-  },
-  {
-    "external_id": "ebenTeeYt",
-    "updated_at": "2020-09-15T23:38:06.000Z",
-    "email": "ebenTeeYt@squareup.com",
-    "org_ids": "squareup.com"
-  },
-  {
-    "external_id": "Praveen_apple14",
-    "updated_at": "2020-09-15T23:43:36.000Z",
-    "email": "Praveen_apple14@cornerstoneondemand.com",
-    "org_ids": "cornerstoneondemand.com"
-  },
-  {
-    "external_id": "cyber_sektor",
-    "updated_at": "2020-09-15T23:44:35.000Z",
-    "email": "cyber_sektor@servicesource.com",
-    "org_ids": "servicesource.com"
-  },
-  {
-    "external_id": "wooten_sandrah",
-    "updated_at": "2020-09-15T23:48:02.000Z",
-    "email": "wooten_sandrah@sentry.io",
-    "org_ids": "sentry.io"
-  },
-  {
-    "external_id": "BcauseofB",
-    "updated_at": "2020-09-16T00:28:17.000Z",
-    "email": "BcauseofB@zendesk.com",
-    "org_ids": "zendesk.com"
-  },
-  {
-    "external_id": "Cusstard",
-    "updated_at": "2020-09-16T00:33:22.000Z",
-    "email": "Cusstard@box.com",
-    "org_ids": "box.com"
-  },
-  {
-    "external_id": "Bhhba2",
-    "updated_at": "2020-09-16T00:42:09.000Z",
-    "email": "Bhhba2@criteo.com",
-    "org_ids": "criteo.com"
-  },
-  {
-    "external_id": "cadyval63",
-    "updated_at": "2020-09-16T01:19:48.000Z",
-    "email": "cadyval63@sentry.io",
-    "org_ids": "sentry.io"
-  },
-  {
-    "external_id": "kellyymcl",
-    "updated_at": "2020-09-15T22:29:51.000Z",
-    "email": "kellyymcl@hudson-ci.org",
-    "org_ids": "hudson-ci.org"
-  },
-  {
-    "external_id": "mphartzheim",
-    "updated_at": "2020-09-15T19:56:34.000Z",
-    "email": "mphartzheim@paylocity.com",
-    "org_ids": "paylocity.com"
-  },
-  {
-    "external_id": "LuisMen59007762",
-    "updated_at": "2020-09-15T22:43:59.000Z",
-    "email": "LuisMen59007762@meltwater.com",
+  }
+ ],
+"account": [
+{
+    "external_id": "riblet8",
+    "updated_at": "2020-09-15T22:26:21.000Z",
+    "email": "riblet8@meltwater.com",
     "org_ids": "meltwater.com"
   },
   {
-    "external_id": "elqwe99",
-    "updated_at": "2020-09-16T03:37:24.000Z",
-    "email": "elqwe99@successfactors.com",
-    "org_ids": "successfactors.com"
-  },
-  {
-    "external_id": "Maniya44",
-    "updated_at": "2020-09-16T03:48:14.000Z",
-    "email": "Maniya44@successfactors.com",
-    "org_ids": "successfactors.com"
-  },
-  {
-    "external_id": "rafayg_251",
-    "updated_at": "2020-09-16T03:51:56.000Z",
-    "email": "rafayg_251@veeva.com",
-    "org_ids": "veeva.com"
+    "external_id": "AppleSupport",
+    "updated_at": "2020-09-15T23:14:07.000Z",
+    "email": "AppleSupport@proofpoint.com",
+    "org_ids": "proofpoint.com"
   }
  ]
 }

@@ -1,36 +1,34 @@
 {
-    "model": [
-        {
-            "name": "Put in MM"
-        },
-        {
-            "name": "1. CoreGrowth (F)"
-        },
-        {
-            "name": "4. CoreGrowth (L)"
-        },
-        {
-            "name": "9.1 Insight Savings Model"
-        },
-        {
-            "name": "3. Income (F)"
-        }
-    ],
-    "account": [
-        {
-            "id": "78988288"
-        },
-        {
-            "id": "98348724"
-        },
-        {
-            "id": "13129984"
-        },
-        {
-            "id": "91588713"
-        },
-        {
-            "id": "87445396"
-        }
-    ]
+  "model": [{
+      "name": "Put in MM"
+    },
+    {
+      "name": "1. CoreGrowth (F)"
+    },
+    {
+      "name": "4. CoreGrowth (L)"
+    },
+    {
+      "name": "9.1 Insight Savings Model"
+    },
+    {
+      "name": "3. Income (F)"
+    }
+  ],
+  "account": [{
+      "id": "78988288"
+    },
+    {
+      "id": "98348724"
+    },
+    {
+      "id": "13129984"
+    },
+    {
+      "id": "91588713"
+    },
+    {
+      "id": "87445396"
+    }
+  ]
 }
